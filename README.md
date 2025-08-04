@@ -1,8 +1,14 @@
-# dissolution similarity
+# Dissolution similarity
 
 Technical details on calculating dissolution similarity based on FDA requirement [official document + paper reading]
 
+## f1, f2
 
+## bootstrap f2
+
+## MSD 
+
+## ENDE (optional)
 
 # License
 
